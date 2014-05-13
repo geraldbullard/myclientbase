@@ -1,0 +1,1 @@
+<li><?php echo anchor('contracts', $this->lang->line('contracts'));?></li>
